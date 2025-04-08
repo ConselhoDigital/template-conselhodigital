@@ -30,7 +30,8 @@
   <link href="assets/css/main.css" rel="stylesheet">
 </head>
 
-<body class="index-page">
+<body class="starter-page-page">
+
   <!-- header-->
   <header id="header" class="header fixed-top">
     <div class="branding d-flex align-items-cente">
@@ -43,10 +44,10 @@
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="#hero" class="active">Home<br></a></li>
-            <li><a href="#sobre">Sobre</a></li>
-            <li><a href="events.html">Eventos</a></li>
-            <li><a href="#contato">Plantões</a></li>            
+            <li><a href="index.html">Home<br></a></li>
+            <li><a href="index.html#sobre">Sobre</a></li>
+            <li><a href="#eventos" class="active">Eventos</a></li>
+            <li><a href="index.html#contato">Plantões</a></li>            
             <li><a href="#">Blog</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -57,34 +58,30 @@
   <!-- end header-->
 
   <main class="main">
-    <!-- section hero-->
-    <section id="hero" class="hero section accent-background">
-      <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-        <div class="row gy-5">
-          <div class="col-lg-6 d-flex flex-column justify-content-center">
-            <h2><span>Bem-vindo ao </span><span class="accent">Conselho Digital</span></h2>
-            <p>Portal de auxílio e divulgação de eventos e formações sobre cuidados e direitos das crianças e dos
-              adolescentes. </p>
-          </div>
-          <div class="col-lg-6 d-flex flex-column align-items-center align-items-lg-end">
-            <div class="d-flex">
-              <a href="#sobre" class="btn-get-started">Saiba mais</a>
-              <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i
-                  class="bi bi-play-circle me-2"></i><span>vídeo institucional</span></a>
+
+    <!-- Page Title -->
+    <div class="page-title">
+      <div class="heading">
+        <div class="container">
+          <div class="row d-flex justify-content-center text-center">
+            <div class="col-lg-8">
+              <h1>Eventos</h1>
             </div>
-            <img src="/assets/img/Family Values.png" class="img-fluid mb-3" alt="">            
           </div>
         </div>
       </div>
+      <nav class="breadcrumbs">
+        <div class="container">
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li class="current">Eventos</li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Page Title -->
 
-    </section>
-    <!-- end hero-->
-    
     <!-- section Eventos /-->
-    <section id="eventos" class="portfolio section">
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Últimos Eventos</h2>
-      </div>
+    <section id="eventos" class="portfolio section">      
       <div class="container">
         <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
@@ -99,7 +96,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/Catching Up.png" class="img-fluid" alt=""></imgsrc>                    
                 <div class="portfolio-info">
-                  <h4><a href="portfolio-details.html" title="More Details">Curso 01</a></h4>
+                  <p class="post-category">Cursos</p>
+                  <h4><a href="event-details.html" title="More Details">Curso 01</a></h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
@@ -109,7 +107,8 @@
               <div class="portfolio-content h-100">
                 <img src="assets/img/Catching Up.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4><a href="portfolio-details.html" title="More Details">Formação 01</a></h4>
+                  <p class="post-category">Formações</p>
+                  <h4><a href="event-details.html" title="More Details">Formação 01</a></h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
@@ -119,16 +118,52 @@
               <div class="portfolio-content h-100">                
                   <img src="assets/img/Catching Up.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4><a href="portfolio-details.html" title="More Details">Palestra 01</a></h4>
+                  <p class="post-category">Palestras</p>
+                  <h4><a href="event-details.html" title="More Details">Palestra 01</a></h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
             </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-cursos">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/Catching Up.png" class="img-fluid" alt=""></imgsrc>                    
+                <div class="portfolio-info">
+                  <p class="post-category">Cursos</p>
+                  <h4><a href="event-details.html" title="More Details">Curso 02</a></h4>
+                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-formacoes">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/Catching Up.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <p class="post-category">Formações</p>
+                  <h4><a href="event-details.html" title="More Details">Formação 02</a></h4>
+                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-palestras">
+              <div class="portfolio-content h-100">                
+                  <img src="assets/img/Catching Up.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <p class="post-category">Palestras</p>
+                  <h4><a href="event-details.html" title="More Details">Palestra 02</a></h4>
+                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
-      </div>
-
-       <!-- Pagination Section -->
+      </div>  
+    
+    
+    <!-- Blog Pagination Section -->
     <section id="blog-pagination" class="blog-pagination section">
 
       <div class="container">
@@ -147,77 +182,8 @@
       </div>
 
     </section>
-    <!--  Pagination Section -->
-    
-
-    <!-- section Sobre -->
-    <section id="sobre" class="about section">
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Sobre<br></h2>
-        <p>Conselho digital veio para proporcionar facilidade, comunicação e preparo para auxílar as pessoas ao cuidados
-          das crianças e adolescente. Este projeto
-          é uma iniciativa da ACONTURS (Associação de Conselheiros e ex-Conselheiro tutelares do Rio Grande do SUL),
-          buscando um meio digital de unir as pessoas
-          para um próposito importante, o <b>Futuro</b>.
-        </p>
-      </div>
-    </section>
-    <!-- end Sobre-->
-
-    <!-- section Contato -->
-    <section id="contato" class="contact section">
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Entre em contato conosco</h2>
-      </div>
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-        <div class="row gx-lg-0 gy-4">
-          <div class="col-lg-3">
-            <div class="info-container d-flex flex-column align-items-center justify-content-center">
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-telephone flex-shrink-0"></i>
-                <div>
-                  <h3>Telefone</h3>
-                  <p>(51) 9999-0000</p>
-                </div>
-              </div>
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-envelope flex-shrink-0"></i>
-                <div>
-                  <h3>Email</h3>
-                  <p>contato@aconturs.com.br</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-8">
-            <form action="#" method="post" class="php-email-form" data-aos="fade" data-aos-delay="100">
-              <div class="row gy-4">
-                <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Seu nome" required="">
-                </div>
-                <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Seu e-mail" required="">
-                </div>
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Assunto" required="">
-                </div>
-                <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="8" placeholder="Mensagem" required=""></textarea>
-                </div>
-                <div class="col-md-12 text-center">
-                  <div class="loading">Aguardando</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Sua mensagem foi enviada, muito obrigado!</div>
-                  <button type="submit">Enviar mensagem</button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!-- Blog Pagination Section -->  
   </main>
-
   <footer id="footer" class="footer accent-background">   
     <div class="container copyright text-center mt-4">
       <div class="col-lg-5 col-md-12 footer-about">
@@ -234,14 +200,10 @@
       <p>©<strong class="px-1 sitename">ACONTURS</strong> <span>Todos os direitos reservados</span></p>    
     </div>
   </footer>
-
   <!-- Scroll Top -->
-  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
-
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <!-- Preloader -->
   <div id="preloader"></div>
-
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
@@ -251,10 +213,7 @@
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
-
 </body>
-
 </html>
