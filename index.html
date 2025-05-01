@@ -70,57 +70,179 @@
       </div>
     </section>
     <!-- end hero-->
-    <!-- section Contato -->
+
+    <!-- Section Contato -->
     <section id="contato" class="contact section">
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Entre em contato conosco</h2>
+      <div class="container section-title mb-0 pb-0" data-aos="fade-up">
+        <h2>Plantões</h2>
       </div>
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-        <div class="row gx-lg-0 gy-4">
-          <div class="col-lg-3">
-            <div class="info-container d-flex flex-column align-items-center justify-content-center">
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-telephone flex-shrink-0"></i>
-                <div>
-                  <h3>Telefone</h3>
-                  <p>(51) 9999-0000</p>
+        <div class="card shadow-lg rounded-3 border-1 border-primary">
+          <div class="card-body p-3">
+            <div class="row gx-lg-5 gy-4">
+              <!-- Coluna de Contatos por Cidade -->
+              <div class="col-lg-8">
+                <div class="mb-4">
+                  <h2 class="text-center mb-3">Selecione uma cidade</h2>
+                  <select class="form-select form-select-lg border-2 py-3" id="cidadeSelect">
+                    <option value="" selected disabled>Escolha a cidade</option>
+                    <option value="porto_alegre">Porto Alegre</option>
+                    <option value="nh">Novo Hamburgo</option>
+                    <option value="sao_leopoldo">São Leopoldo</option>
+                  </select>
+                </div>
+                <!-- Container de Cards com Scroll -->
+                <div class="card border-2 shadow-sm">
+                  <div class="card-body p-0">
+                    <div id="contatosContainer" class="list-group list-group-flush overflow-auto"
+                      style="height: 250px;">
+                      <!-- Cards serão inseridos aqui -->
+                    </div>
+                  </div>
                 </div>
               </div>
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-envelope flex-shrink-0"></i>
-                <div>
-                  <h3>Email</h3>
-                  <p>contato@aconturs.com.br</p>
+              <!-- Coluna de Informações -->
+              <div class="col-lg-4">
+                <div class="info-container d-flex flex-column align-items-center justify-content-center align-center">
+                  <h3 class="text-light text-center fs-2 mb-4">Contatos da Aconturs</h3>
+                  <div class="info-item d-flex mb-4">
+                    <i class="bi bi-telephone flex-shrink-0 me-3"></i>
+                    <div>
+                      <h3>Telefone</h3>
+                      <p>(51) 9999-0000</p>
+                    </div>
+                  </div>
+                  <div class="info-item d-flex">
+                    <i class="bi bi-envelope flex-shrink-0 me-3"></i>
+                    <div>
+                      <h3>Email</h3>
+                      <p>contato@aconturs.com.br</p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-8">
-            <form action="#" method="post" class="php-email-form" data-aos="fade" data-aos-delay="100">
-              <div class="row gy-4">
-                <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Seu nome" required="">
-                </div>
-                <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Seu e-mail" required="">
-                </div>
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Assunto" required="">
-                </div>
-                <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="8" placeholder="Mensagem" required=""></textarea>
-                </div>
-                <div class="col-md-12 text-center">
-                  <div class="loading">Aguardando</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Sua mensagem foi enviada, muito obrigado!</div>
-                  <button type="submit">Enviar mensagem</button>
-                </div>
-              </div>
-            </form>
-          </div>
         </div>
       </div>
+      <script>
+        const contatos = {
+
+          porto_alegre: [
+            {
+              nome: "Microrregião 01",
+              telefone: "(51) 3289-2011",
+              info: "Ilhas / Humaitá / Navegantes",
+              endereco: "Av. Maranhão, 156 - São Geraldo"
+            },
+            {
+              nome: "Microrregião 02",
+              telefone: "(51) 3289-2012",
+              info: "Norte/Nordeste",
+              endereco: "R. Paulo Gomes de Oliveira, 200 – Sarandi"
+            },
+            {
+              nome: "Microrregião 03",
+              telefone: "(51) 3289-2013",
+              info: "Leste",
+              endereco: "Rua São Felipe, 140 - Bom Jesus"
+            },
+            {
+              nome: "Microrregião 04",
+              telefone: "(51) 3289-2014",
+              info: "Partenon",
+              endereco: "Rua Manoel Vitorino, 10 – Partenon"
+            },
+            {
+              nome: "Microrregião 05",
+              telefone: "(51) 3289-2015",
+              info: "Glória / Cruzeiro / Cristal",
+              endereco: "Av. Oscar Pereira, 2603 – Glória"
+            },
+            {
+              nome: "Microrregião 06",
+              telefone: "(51) 3289-2016",
+              info: "Centro Sul/Sul",
+              endereco: "Rua Engenheiro Coelho Parreira, 585 – Ipanema"
+            },
+            {
+              nome: "Microrregião 07",
+              telefone: "(51) 3289-2017",
+              info: "Restinga",
+              endereco: "Rua Rubens Pereira Torely, 333 – Restinga"
+            },
+            {
+              nome: "Microrregião 08",
+              telefone: "(51) 3289-2018",
+              info: "Centro | PLANTÃO CENTRALIZADO",
+              endereco: "Rua Fernando Machado, 657 - Centro Histórico"
+            },
+            {
+              nome: "Microrregião 09",
+              telefone: "(51) 3289-2019",
+              info: "Lomba do Pinheiro",
+              endereco: "Estrada João de Oliveira Remião, 1178 - Lomba do Pinheiro"
+            },
+            {
+              nome: "Microrregião 10",
+              telefone: "(51) 3289-2010",
+              info: "Nordeste / Eixo Baltazar",
+              endereco: "Rua Marino Abraão, 25 - Passo das Pedras"
+            }
+          ],
+
+          sao_leopoldo: [
+            {
+              nome: "Região 1",
+              telefone: "(51) 98924-6360",
+              info: "Centro",
+              endereco: "Avenida João Corrêa, nº 1.350, sala 307 - Centro"
+            },
+            {
+              nome: "Região 2",
+              telefone: "(51) 2200-0574",
+              info: "Zona Norte",
+              endereco: "Governador Roberto Silveira, 425 - Santos Dumont"
+            }
+          ],
+
+          nh: [
+            {
+              nome: "Região 1",
+              telefone: "(51) 9 9701-8406",
+              info: "Alpes do Vale, Canudos, Hamburgo Velho, Jardim Mauá, Lomba Grande, Roselândia, São Jorge, São José, Vila Nova",
+              endereco: "Rua David Canabarro, 20, 4º andar – Centro"
+            },
+            {
+              nome: "Região 2",
+              telefone: "(51) 9 9701-8406",
+              info: "Boa Saúde, Boa Vista, Centro, Guarani, Ideal, Industrial, Liberdade, Operário, Ouro Branco, Pátria Nova, Petrópolis, Primavera, Rincão, Rio Branco, Rondônia, Santo Afonso, Vila Rosa",
+              endereco: "Rua David Canabarro, 20, 4º andar – Centro"
+            },
+          ]
+
+        };
+
+        document.getElementById('cidadeSelect').addEventListener('change', function () {
+          const cidade = this.value;
+          const container = document.getElementById('contatosContainer');
+          container.innerHTML = '';
+
+          contatos[cidade]?.forEach(contato => {
+            const card = document.createElement('a');
+            card.className = 'list-group-item list-group-item-action border-1 py-3';
+            card.innerHTML = `
+          <div class="d-flex justify-content-between align-items-center">
+            <div>
+              <h5 class="mb-1">${contato.nome}: ${contato.telefone}</h5>
+              <p>${contato.info}<br>${contato.endereco}</p>
+            </div>
+          </div>
+        `;
+            container.appendChild(card);
+          });
+        });
+      </script>
     </section>
     <!-- section Sobre -->
     <section id="sobre" class="about section">
@@ -227,4 +349,5 @@
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
 </body>
+
 </html>
