@@ -1,0 +1,43 @@
+name: Atualizar JSON Diariamente
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Isso irá rodar o workflow todo dia à meia-noite UTC
+  workflow_dispatch: # Permite também rodar o workflow manualmente
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    env:
+      # Configurar em settings a variável de ambiente do BASEROW
+      BASEROW_TOKEN: ${{ secrets.BASEROW_TOKEN }}   
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+        with:
+            ref: main     # branch = main
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' 
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv  
+
+      - name: Run the script to update the JSON
+        run: |
+          python contatos/updateJson.py  # Executa o script que gera o JSON
+
+      - name: Commit and push the updated JSON
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add contatos.json  # Adiciona o arquivo gerado
+          git commit -m 'Atualiza o arquivo contatos.json' || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticação para o push

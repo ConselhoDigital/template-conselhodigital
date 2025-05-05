@@ -28,6 +28,8 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
+  <!-- Contatos -->
+  <script src="assets/js/contatos.js"></script>
 </head>
 
 <body class="index-page">
@@ -85,10 +87,6 @@
                 <div class="mb-4">
                   <h2 class="text-center mb-3">Selecione uma cidade</h2>
                   <select class="form-select form-select-lg border-2 py-3" id="cidadeSelect">
-                    <option value="" selected disabled>Escolha a cidade</option>
-                    <option value="porto_alegre">Porto Alegre</option>
-                    <option value="nh">Novo Hamburgo</option>
-                    <option value="sao_leopoldo">São Leopoldo</option>
                   </select>
                 </div>
                 <!-- Container de Cards com Scroll -->
@@ -125,124 +123,6 @@
           </div>
         </div>
       </div>
-      <script>
-        const contatos = {
-
-          porto_alegre: [
-            {
-              nome: "Microrregião 01",
-              telefone: "(51) 3289-2011",
-              info: "Ilhas / Humaitá / Navegantes",
-              endereco: "Av. Maranhão, 156 - São Geraldo"
-            },
-            {
-              nome: "Microrregião 02",
-              telefone: "(51) 3289-2012",
-              info: "Norte/Nordeste",
-              endereco: "R. Paulo Gomes de Oliveira, 200 – Sarandi"
-            },
-            {
-              nome: "Microrregião 03",
-              telefone: "(51) 3289-2013",
-              info: "Leste",
-              endereco: "Rua São Felipe, 140 - Bom Jesus"
-            },
-            {
-              nome: "Microrregião 04",
-              telefone: "(51) 3289-2014",
-              info: "Partenon",
-              endereco: "Rua Manoel Vitorino, 10 – Partenon"
-            },
-            {
-              nome: "Microrregião 05",
-              telefone: "(51) 3289-2015",
-              info: "Glória / Cruzeiro / Cristal",
-              endereco: "Av. Oscar Pereira, 2603 – Glória"
-            },
-            {
-              nome: "Microrregião 06",
-              telefone: "(51) 3289-2016",
-              info: "Centro Sul/Sul",
-              endereco: "Rua Engenheiro Coelho Parreira, 585 – Ipanema"
-            },
-            {
-              nome: "Microrregião 07",
-              telefone: "(51) 3289-2017",
-              info: "Restinga",
-              endereco: "Rua Rubens Pereira Torely, 333 – Restinga"
-            },
-            {
-              nome: "Microrregião 08",
-              telefone: "(51) 3289-2018",
-              info: "Centro | PLANTÃO CENTRALIZADO",
-              endereco: "Rua Fernando Machado, 657 - Centro Histórico"
-            },
-            {
-              nome: "Microrregião 09",
-              telefone: "(51) 3289-2019",
-              info: "Lomba do Pinheiro",
-              endereco: "Estrada João de Oliveira Remião, 1178 - Lomba do Pinheiro"
-            },
-            {
-              nome: "Microrregião 10",
-              telefone: "(51) 3289-2010",
-              info: "Nordeste / Eixo Baltazar",
-              endereco: "Rua Marino Abraão, 25 - Passo das Pedras"
-            }
-          ],
-
-          sao_leopoldo: [
-            {
-              nome: "Região 1",
-              telefone: "(51) 98924-6360",
-              info: "Centro",
-              endereco: "Avenida João Corrêa, nº 1.350, sala 307 - Centro"
-            },
-            {
-              nome: "Região 2",
-              telefone: "(51) 2200-0574",
-              info: "Zona Norte",
-              endereco: "Governador Roberto Silveira, 425 - Santos Dumont"
-            }
-          ],
-
-          nh: [
-            {
-              nome: "Região 1",
-              telefone: "(51) 9 9701-8406",
-              info: "Alpes do Vale, Canudos, Hamburgo Velho, Jardim Mauá, Lomba Grande, Roselândia, São Jorge, São José, Vila Nova",
-              endereco: "Rua David Canabarro, 20, 4º andar – Centro"
-            },
-            {
-              nome: "Região 2",
-              telefone: "(51) 9 9701-8406",
-              info: "Boa Saúde, Boa Vista, Centro, Guarani, Ideal, Industrial, Liberdade, Operário, Ouro Branco, Pátria Nova, Petrópolis, Primavera, Rincão, Rio Branco, Rondônia, Santo Afonso, Vila Rosa",
-              endereco: "Rua David Canabarro, 20, 4º andar – Centro"
-            },
-          ]
-
-        };
-
-        document.getElementById('cidadeSelect').addEventListener('change', function () {
-          const cidade = this.value;
-          const container = document.getElementById('contatosContainer');
-          container.innerHTML = '';
-
-          contatos[cidade]?.forEach(contato => {
-            const card = document.createElement('a');
-            card.className = 'list-group-item list-group-item-action border-1 py-3';
-            card.innerHTML = `
-          <div class="d-flex justify-content-between align-items-center">
-            <div>
-              <h5 class="mb-1">${contato.nome}: ${contato.telefone}</h5>
-              <p>${contato.info}<br>${contato.endereco}</p>
-            </div>
-          </div>
-        `;
-            container.appendChild(card);
-          });
-        });
-      </script>
     </section>
     <!-- section Sobre -->
     <section id="sobre" class="about section">
