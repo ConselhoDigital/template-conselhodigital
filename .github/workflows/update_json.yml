@@ -16,7 +16,7 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v2
         with:
-            ref: contatos/github-actions     # branch = main
+            ref: main    # main
 
       - name: Set up Python
         uses: actions/setup-python@v2
