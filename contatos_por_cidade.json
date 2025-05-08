@@ -41,12 +41,12 @@
             "endereco": "Governador Roberto Silveira, 425 - Santos Dumont"
         }
     ],
-    "Esteio": [
+    "Cachoeirinha": [
         {
-            "nome": "Centro",
+            "nome": "Zona Leste",
             "telefone": "(51) 9999-9999",
             "info": "Zona",
-            "endereco": "Rua 1"
+            "endereco": "Rua 100"
         }
     ]
 }
