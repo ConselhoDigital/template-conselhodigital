@@ -1,0 +1,52 @@
+{
+    "Porto Alegre": [
+        {
+            "nome": "Microrregião 1",
+            "telefone": "(51) 3289-2011",
+            "info": "Ilhas / Humaitá / Navegantes",
+            "endereco": "Av. Maranhão, 156 - São Geraldo"
+        },
+        {
+            "nome": "Microrregião 2",
+            "telefone": "(51) 3289-2012",
+            "info": "Norte / Nordeste",
+            "endereco": "R. Paulo Gomes de Oliveira, 200 – Sarandi"
+        }
+    ],
+    "Novo Hamburgo": [
+        {
+            "nome": "Região 1",
+            "telefone": "(51) 9 9701-8406",
+            "info": "Alpes do Vale, Canudos, Hamburgo Velho, Jardim Mauá, Lomba Grande, Roselândia, São Jorge, São José, Vila Nova",
+            "endereco": "Rua David Canabarro, 20, 4º andar – Centro"
+        },
+        {
+            "nome": "Região 2",
+            "telefone": "(51) 9 9701-8406",
+            "info": "Boa Saúde, Boa Vista, Centro, Guarani, Ideal, Industrial, Liberdade, Operário, Ouro Branco, Pátria Nova, Petrópolis, Primavera, Rincão, Rio Branco, Rondônia, Santo Afonso, Vila Rosa",
+            "endereco": "Rua David Canabarro, 20, 4º andar – Centro"
+        }
+    ],
+    "São Leopoldo": [
+        {
+            "nome": "Região 1",
+            "telefone": "(51) 9 8924-6360",
+            "info": "Centro",
+            "endereco": "Avenida João Corrêa, nº 1.350, sala 307 - Centro"
+        },
+        {
+            "nome": "Região 2",
+            "telefone": "(51) 2200-0574",
+            "info": "Zona Norte",
+            "endereco": "Governador Roberto Silveira, 425 - Santos Dumont"
+        }
+    ],
+    "Cachoeirinha": [
+        {
+            "nome": "Zona Leste",
+            "telefone": "(51) 9999-9999",
+            "info": "Zona",
+            "endereco": "Rua 100"
+        }
+    ]
+}
