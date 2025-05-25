@@ -8,15 +8,15 @@ export default async function handler(req, res) {
   }
 
   // Pegando parâmetros da URL
-  const { page = 1, page_size = 6 } = req.query;
+  const { page = 1, page_size = 6, field_sort = 'start_date', sort = 'DESC' } = req.query;
 
   // Monta a URL com parâmetros
   const url = new URL(API_URL);
   url.searchParams.append('published', 'true');
   url.searchParams.append('page_size', page_size);
   url.searchParams.append('page', page);
-  url.searchParams.append('field_sort', 'start_date');
-  url.searchParams.append('sort', 'ASC');
+  url.searchParams.append('field_sort', field_sort);
+  url.searchParams.append('sort', sort);
 
   try {
     const response = await fetch(url.toString(), {
