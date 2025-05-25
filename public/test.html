@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Eventos Sympla</title>
+</head>
+
+<body>
+  <h1>Lista de Eventos da Sympla</h1>
+  <div id="eventos">Carregando eventos...</div>
+
+  <script>
+    async function carregarEventos() {
+      const eventosDiv = document.getElementById('eventos');
+      try {
+        const response = await fetch('/api/eventos');
+        if (!response.ok) {
+          eventosDiv.innerText = `Erro ao carregar eventos: ${response.status}`;
+          return;
+        }
+        const data = await response.json();
+
+        if (!data.data || data.data.length === 0) {
+          eventosDiv.innerText = 'Nenhum evento encontrado.';
+          return;
+        }
+
+        console.log(data);
+
+        // Criar container dos eventos
+        const container = document.createElement('div');
+
+        data.data.forEach(evento => {
+          const card = document.createElement('div');
+          card.style.border = '1px solid #ccc';
+          card.style.padding = '10px';
+          card.style.marginBottom = '10px';
+
+          const titulo = document.createElement('h3');
+          titulo.innerText = evento.name;
+          card.appendChild(titulo);
+
+          const lista = document.createElement('ul');
+
+          // Percorrer as chaves do objeto evento
+          for (const [key, value] of Object.entries(evento)) {
+            const item = document.createElement('li');
+
+            // Se for objeto aninhado, exibe como string JSON
+            if (typeof value === 'object' && value !== null) {
+              item.innerHTML = `<strong>${key}:</strong> ${JSON.stringify(value)}`;
+            } else {
+              item.innerHTML = `<strong>${key}:</strong> ${value}`;
+            }
+
+            lista.appendChild(item);
+          }
+
+          card.appendChild(lista);
+          container.appendChild(card);
+        });
+
+        eventosDiv.innerHTML = '';
+        eventosDiv.appendChild(container);
+
+      } catch (error) {
+        eventosDiv.innerText = 'Erro ao carregar eventos: ' + error.message;
+      }
+    }
+
+    carregarEventos();
+  </script>
+</body>
+
+</html>
