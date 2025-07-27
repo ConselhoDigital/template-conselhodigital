@@ -11,8 +11,8 @@ load_dotenv()
 API_URL = "https://api.baserow.io/api/database/rows/table/{}/?user_field_names=true"
 AUTH_TOKEN = os.getenv("BASEROW_TOKEN")
 HEADERS = {"Authorization": f"Token {AUTH_TOKEN}"}
-ID_TABELA_CIDADE = 524305
-ID_TABELA_CONTATO = 524536
+ID_TABELA_CIDADE = 609791
+ID_TABELA_CONTATO = 609792
 
 
 def get_json(id_tabela):
