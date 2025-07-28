@@ -8,7 +8,7 @@ from typing import Dict, List, Any, Optional
 load_dotenv()
 
 # Constantes
-API_URL = "https://api.baserow.io/api/database/rows/table/{}/?user_field_names=true"
+API_URL = "https://api.baserow.io/api/database/rows/table/{}/?user_field_names=true&order_by=+nome&size=200"
 AUTH_TOKEN = os.getenv("BASEROW_TOKEN")
 HEADERS = {"Authorization": f"Token {AUTH_TOKEN}"}
 ID_TABELA_CIDADE = 609791
@@ -19,11 +19,15 @@ def get_json(id_tabela):
     """Obtém os dados de uma tabela do Baserow"""
 
     print(f"Buscando dados da tabela {id_tabela}...")
+    data = []
+    next = API_URL.format(id_tabela)
     try:
-        response = requests.get(API_URL.format(id_tabela), headers=HEADERS)
-        response.raise_for_status()
-        data = response.json().get("results", [])
-        print(f"{len(data)} registros encontrados na tabela {id_tabela}.")
+        while next:
+            response = requests.get(next, headers=HEADERS)
+            response.raise_for_status()
+            data += response.json().get("results", [])
+            next = response.json().get("next", [])
+            print(f"{len(data)} registros encontrados na tabela {id_tabela}.")
         return data
     except requests.RequestException as ex:
         print(f"Erro ao acessar tabela {id_tabela}: {ex}")
@@ -35,9 +39,9 @@ def construir_mapa_cidades(tabela_cidade):
 
     print("Construindo dicionário de cidades...")
     cidades = {
-        cidade["cidade_id"]: cidade["cidade_nome"]
+        cidade["cidade_id"]: cidade["nome"]
         for cidade in tabela_cidade
-        if cidade.get("cidade_id") and cidade.get("cidade_nome")
+        if cidade.get("cidade_id") and cidade.get("nome")
     }
     print(f"{len(cidades)} cidades mapeadas.")
     return cidades
@@ -58,7 +62,7 @@ def agrupar_contatos_por_cidade(tabela_contato, cidades):
             if cidade_nome:
                 resultado[cidade_nome].append(
                     {
-                        "nome": contato.get("contato_nome", ""),
+                        "nome": contato.get("nome", ""),
                         "telefone": contato.get("contato_telefone", ""),
                         "info": contato.get("contato_info", ""),
                         "endereco": contato.get("contato_endereco", ""),
