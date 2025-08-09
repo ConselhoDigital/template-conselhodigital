@@ -1,12 +1,5 @@
 {
-    "Água Santa": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Água Santa": [],
     "Agudo": [
         {
             "nome": "Agúdo",
@@ -41,1474 +34,359 @@
     ],
     "Almirante Tamandaré do Sul": [
         {
-            "nome": "Almirante Tamandaré",
+            "nome": "Almirante Tamandaré do Sul",
             "telefone": "(54) 3615-1358",
             "info": "",
             "endereco": ""
         }
     ],
-    "Alpestre": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Alto Alegre": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Alto Feliz": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Alpestre": [],
+    "Alto Alegre": [],
+    "Alto Feliz": [],
     "Alvorada": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Alvorada",
+            "telefone": "51993471773",
+            "info": "Maringa",
+            "endereco": "Rua Contabilista Vitor Brum, 87 - 2º Andar"
         }
     ],
-    "Ametista do Sul": [
+    "Ametista do Sul": [],
+    "Arambaré": [],
+    "Araricá": [],
+    "Aratiba": [],
+    "Arroio dos Ratos": [],
+    "Augusto Pestana": [],
+    "Áurea": [],
+    "Barão": [],
+    "Barão de Cotegipe": [],
+    "Barão do Triunfo": [],
+    "Barra do Guarita": [],
+    "Barra do Ribeiro": [],
+    "Barra do Rio Azul": [],
+    "Barra Funda": [],
+    "Barracão": [],
+    "Barros Cassal": [],
+    "Benjamin Constant do Sul": [],
+    "Bento Gonçalves": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Bento Gonçalves",
+            "telefone": "3055-4437",
+            "info": "São Bento",
+            "endereco": "Rua General Vitorino, 173"
         }
     ],
-    "Arambaré": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Araricá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Aratiba": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Arroio dos Ratos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Augusto Pestana": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Áurea": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barão": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barão de Cotegipe": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barão do Triunfo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barra do Guarita": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barra do Ribeiro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        },
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barra do Rio Azul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barra Funda": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barracão": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Barros Cassal": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Benjamin Constant do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Boa Vista das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Boa Vista do Buricá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Boa Vista do Cadeado": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Boa Vista do Incra": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Bom Princípio": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Bom Progresso": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Boa Vista das Missões": [],
+    "Boa Vista do Buricá": [],
+    "Boa Vista do Cadeado": [],
+    "Boa Vista do Incra": [],
+    "Bom Princípio": [],
+    "Bom Progresso": [],
     "Bossoroca": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Bossoroca",
+            "telefone": "3356-4000",
             "info": "",
             "endereco": ""
         }
     ],
-    "Bozano": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Braga": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Brochier": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Butiá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Bozano": [],
+    "Braga": [],
+    "Brochier": [],
+    "Butiá": [],
     "Cacequi": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Cacequi",
+            "telefone": "55 99153-1703",
             "info": "",
             "endereco": ""
         }
     ],
-    "Cachoeira do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Cachoeira do Sul": [],
     "Cachoeirinha": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Cachoeirinha",
+            "telefone": "51997182092",
             "info": "",
-            "endereco": ""
+            "endereco": "Rua Silvério Manoel da Silva, 550"
         }
     ],
-    "Cacique Doble": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Caibeté": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Caiçara": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Camaquã": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Camargo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Campina das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Campinas do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Cacique Doble": [],
+    "Caibeté": [],
+    "Caiçara": [],
+    "Camaquã": [],
+    "Camargo": [],
+    "Campina das Missões": [],
+    "Campinas do Sul": [],
     "Campo Bom": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Campo Bom",
+            "telefone": "51997030018",
+            "info": "Centro, Celeste",
+            "endereco": "Rua Dolores Alcarão Caldas, 194"
         }
     ],
-    "Campo Novo": [
+    "Campo Novo": [],
+    "Campos Borges": [],
+    "Cândido Godoi": [],
+    "Canela": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Campos Borges": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cândido Godoi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Canela",
+            "telefone": "3282-2092",
+            "info": "Centro",
+            "endereco": "Rua Padre Cacique, 520"
         }
     ],
     "Canoas": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Canoas",
+            "telefone": "51992306142",
             "info": "",
-            "endereco": ""
-        }
-    ],
-    "Capão Bonito do Sul": [
+            "endereco": "Rua Alberto Torres, 46"
+        },
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Canoas",
+            "telefone": "51998275389",
             "info": "",
-            "endereco": ""
-        }
-    ],
-    "Capão do Cipó": [
+            "endereco": "Rua Campos Sales, 302"
+        },
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Canoas",
+            "telefone": "51992306142",
             "info": "",
-            "endereco": ""
-        }
-    ],
-    "Capela de Santana": [
+            "endereco": "Rua Santos Ferreiro, 1058"
+        },
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Canoas",
+            "telefone": "51992306192",
+            "info": "Mathias Velho",
+            "endereco": "Av. Guilherme Schell, 7138"
         }
     ],
-    "Carazinho": [
+    "Capão Bonito do Sul": [],
+    "Capão do Cipó": [],
+    "Capela de Santana": [],
+    "Carazinho": [],
+    "Carlos Gomes": [],
+    "Casca": [],
+    "Caseiros": [],
+    "Catuípe": [],
+    "Caxias do Sul": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Caxias do Sul",
+            "telefone": "3227-7150",
+            "info": "Centro",
+            "endereco": "Rua Visconde de Pelotas, 130"
         }
     ],
-    "Carlos Gomes": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Casca": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Caseiros": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Catuípe": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Centenário": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cerro Branco": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cerro Grande": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cerro Grande do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cerro Largo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Chapada": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Charqueadas": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Charrua": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Chiapetta": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Chuvisca": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ciríaco": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Colorado": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Condor": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Constantina": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Coqueiros do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Coronel Barros": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Coronel Bicaco": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Coxilha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Crissiumal": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cristal": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cristal do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cruz Alta": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Cruzaltense": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "David Canabarro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Derrubadas": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dezesseis de Novembro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dilermando de Aguiar": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dois Irmãos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dois Irmãos das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dom Feliciano": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dona Francisca": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Dr. Maurício Cardoso": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Eldorado do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Engenho Velho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Entre Rios do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Entre-Ijuís": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Erebango": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Erechim": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ernestina": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Erval Grande": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Erval Seco": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Espereança do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Espumoso": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Estação": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Estância Velha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Centenário": [],
+    "Cerro Branco": [],
+    "Cerro Grande": [],
+    "Cerro Grande do Sul": [],
+    "Cerro Largo": [],
+    "Chapada": [],
+    "Charqueadas": [],
+    "Charrua": [],
+    "Chiapetta": [],
+    "Chuvisca": [],
+    "Ciríaco": [],
+    "Colorado": [],
+    "Condor": [],
+    "Constantina": [],
+    "Coqueiros do Sul": [],
+    "Coronel Barros": [],
+    "Coronel Bicaco": [],
+    "Coxilha": [],
+    "Crissiumal": [],
+    "Cristal": [],
+    "Cristal do Sul": [],
+    "Cruz Alta": [],
+    "Cruzaltense": [],
+    "David Canabarro": [],
+    "Derrubadas": [],
+    "Dezesseis de Novembro": [],
+    "Dilermando de Aguiar": [],
+    "Dois Irmãos": [],
+    "Dois Irmãos das Missões": [],
+    "Dom Feliciano": [],
+    "Dona Francisca": [],
+    "Dr. Maurício Cardoso": [],
+    "Eldorado do Sul": [],
+    "Engenho Velho": [],
+    "Entre Rios do Sul": [],
+    "Entre-Ijuís": [],
+    "Erebango": [],
+    "Erechim": [],
+    "Ernestina": [],
+    "Erval Grande": [],
+    "Erval Seco": [],
+    "Espereança do Sul": [],
+    "Espumoso": [],
+    "Estação": [],
+    "Estância Velha": [],
     "Esteio": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Esteio",
+            "telefone": "51996784015",
+            "info": "Centro",
+            "endereco": "Rua Pedro Lebarch, 426"
         }
     ],
-    "Eugênio de Castro": [
+    "Eugênio de Castro": [],
+    "Farroupilha": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Farroupilha",
+            "telefone": "32683985",
+            "info": "Centro",
+            "endereco": "Rua 13 de Maio, 713 - Centro"
         }
     ],
-    "Faxinal do Soturno": [
+    "Faxinal do Soturno": [],
+    "Faxinalzinho": [],
+    "Feliz": [],
+    "Floriano Peixoto": [],
+    "Fontoura Xavier": [],
+    "Formigueiro": [],
+    "Fortaleza dos Valos": [],
+    "Frederico Westphalen": [],
+    "Garibaldi": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Garibaldi",
+            "telefone": "34623037",
+            "info": "Centro",
+            "endereco": "Rua Batista João Cerrado, 79 - Centro"
         }
     ],
-    "Faxinalzinho": [
+    "Garruchos": [],
+    "Gaurama": [],
+    "Gentil": [],
+    "Getúlio Vargas": [],
+    "Giruá": [],
+    "Glorinha": [],
+    "Gramado": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Gramado",
+            "telefone": "54999771973",
+            "info": "Bairro Vila Verde",
+            "endereco": "Rua Coluna do Norte, 147 - Bairro Vila Verde"
         }
     ],
-    "Feliz": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Floriano Peixoto": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Fontoura Xavier": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Formigueiro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Fortaleza dos Valos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Frederico Westphalen": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Garruchos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Gaurama": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Gentil": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Getúlio Vargas": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Giruá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Glorinha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Gramado dos Loureiros": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Gramado Xavier": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Gramado dos Loureiros": [],
+    "Gramado Xavier": [],
     "Gravataí": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Gravataí",
+            "telefone": "5136007657",
+            "info": "D. João Becker",
+            "endereco": "Rua Irmão Geraldo, 141/301"
         }
     ],
     "Guaíba": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Guaíba",
+            "telefone": "51995782050",
+            "info": "Centro",
+            "endereco": "Rua Manoel Rodrigues Filho, 140"
         }
     ],
-    "Guarani das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Harmonia": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Horizontina": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Humaitá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ibiaçá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ibiraiaras": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ibirapuitã": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ibirubá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Igrejinha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ijuí": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Independência": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Inhacorá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ipiranga do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Iraí": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Itaara": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Itapuca": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Itatiba do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ivorá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ivoti": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Jaboticaba": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Jacuizinho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Jacutinga": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Guarani das Missões": [],
+    "Harmonia": [],
+    "Horizontina": [],
+    "Humaitá": [],
+    "Ibiaçá": [],
+    "Ibiraiaras": [],
+    "Ibirapuitã": [],
+    "Ibirubá": [],
+    "Igrejinha": [],
+    "Ijuí": [],
+    "Independência": [],
+    "Inhacorá": [],
+    "Ipiranga do Sul": [],
+    "Iraí": [],
+    "Itaara": [],
+    "Itapuca": [],
+    "Itatiba do Sul": [],
+    "Ivorá": [],
+    "Ivoti": [],
+    "Jaboticaba": [],
+    "Jacuizinho": [],
+    "Jacutinga": [],
     "Jaguari": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Jaguari",
+            "telefone": "55984523347",
             "info": "",
             "endereco": ""
         }
     ],
     "Jari": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Jari",
+            "telefone": "32729150",
             "info": "",
             "endereco": ""
         }
     ],
     "Jóia": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Jóia",
+            "telefone": "3318-1368",
             "info": "",
-            "endereco": ""
+            "endereco": "Rua Brasiliano Serra, 104"
         }
     ],
-    "Júlio de Castilhos": [
+    "Júlio de Castilhos": [],
+    "Lagoa dos Três Cantos": [],
+    "Lagoa Vermelha": [],
+    "Lagoão": [],
+    "Lajeado do Bugre": [],
+    "Liberato Salzano": [],
+    "Lindolfo Collor": [],
+    "Linha Nova": [],
+    "Machadinho": [],
+    "Maratá": [],
+    "Marau": [],
+    "Marcelino Ramos": [],
+    "Mariana Pimentel": [],
+    "Mariano Moro": [],
+    "Mata": [],
+    "Mato Castelhano": [],
+    "Mato Queimado": [],
+    "Maximiliano de Almeida": [],
+    "Minas do Leão": [],
+    "Miraguaí": [],
+    "Montenegro": [],
+    "Mormaço": [],
+    "Morro Reuter": [],
+    "Muliterno": [],
+    "Não-Me-Toque": [],
+    "Nicolau Vergueiro": [],
+    "Nonoai": [],
+    "Nova Alvorada": [],
+    "Nova Boa Vista": [],
+    "Nova Candelária": [],
+    "Nova Esperança do Sul": [],
+    "Nova Hartz": [],
+    "Nova Palma": [],
+    "Nova Petrópolis": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Nova Petrópolis",
+            "telefone": "3281-8421",
             "info": "",
-            "endereco": ""
+            "endereco": "R. Tiradentes, 376 - Nova Petrópolis, RS, 95150-000"
         }
     ],
-    "Lagoa dos Três Cantos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Lagoa Vermelha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Lagoão": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Lajeado do Bugre": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Liberato Salzano": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Lindolfo Collor": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Linha Nova": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Machadinho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Maratá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Marau": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Marcelino Ramos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Mariana Pimentel": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Mariano Moro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Mata": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Mato Castelhano": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Mato Queimado": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Maximiliano de Almeida": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Minas do Leão": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Miraguaí": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Montenegro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Mormaço": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Morro Reuter": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Muliterno": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Não-Me-Toque": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nicolau Vergueiro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nonoai": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Alvorada": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Boa Vista": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Candelária": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Esperança do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Hartz": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Palma": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Nova Ramada": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Nova Ramada": [],
     "Nova Santa Rita": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Nova Santa Rira",
+            "telefone": "51999670122",
+            "info": "Centro",
+            "endereco": "Rua Lourenço Záccaro, 1658"
         }
     ],
-    "Novo Barreiro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Novo Cabrais": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Novo Barreiro": [],
+    "Novo Cabrais": [],
     "Novo Hamburgo": [
         {
             "nome": "Região 1",
@@ -1523,172 +401,32 @@
             "endereco": "Rua David Canabarro, 20, 4º andar – Centro"
         }
     ],
-    "Novo Machado": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Novo Tiradentes": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Novo Xingú": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Paim Filho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pajuçara": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Palmeira das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Palmitinho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Panambi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Paraíso do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pareci Novo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Parobé": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Passo Fundo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Paulo Bento": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pinhal": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pinhal Grande": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pinheirinho do Vale": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pirajó": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Planalto": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Pontão": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ponte Preta": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Novo Machado": [],
+    "Novo Tiradentes": [],
+    "Novo Xingú": [],
+    "Paim Filho": [],
+    "Pajuçara": [],
+    "Palmeira das Missões": [],
+    "Palmitinho": [],
+    "Panambi": [],
+    "Paraíso do Sul": [],
+    "Pareci Novo": [],
+    "Parobé": [],
+    "Passo Fundo": [],
+    "Paulo Bento": [],
+    "Pinhal": [],
+    "Pinhal Grande": [],
+    "Pinheirinho do Vale": [],
+    "Pirajó": [],
+    "Planalto": [],
+    "Pontão": [],
+    "Ponte Preta": [],
     "Portão": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Portão",
+            "telefone": "51999372753",
+            "info": "Centro",
+            "endereco": "Rua 9 de outubro, 229"
         }
     ],
     "Porto Alegre": [
@@ -1705,406 +443,77 @@
             "endereco": "R. Paulo Gomes de Oliveira, 200 – Sarandi"
         }
     ],
-    "Porto Lucena": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Porto Mauá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Porto Vera Cruz": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Porto Xavier": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Presidente Lucena": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Quatro Irmãos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Quevedos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Quinze de Novembro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ralador": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Redentora": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Restinga Seca": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Rio dos Índios": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Riozinho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Rodeio Bonito": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Rolante": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ronda Alta": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Rondinha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Roque Gonzalez": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sagrada Família": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Saldanha Marinho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Salto do Jacuí": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Salvador da Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Salvador do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sananduva": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santa Bárbara do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santa Cecília do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Porto Lucena": [],
+    "Porto Mauá": [],
+    "Porto Vera Cruz": [],
+    "Porto Xavier": [],
+    "Presidente Lucena": [],
+    "Quatro Irmãos": [],
+    "Quevedos": [],
+    "Quinze de Novembro": [],
+    "Ralador": [],
+    "Redentora": [],
+    "Restinga Seca": [],
+    "Rio dos Índios": [],
+    "Riozinho": [],
+    "Rodeio Bonito": [],
+    "Rolante": [],
+    "Ronda Alta": [],
+    "Rondinha": [],
+    "Roque Gonzalez": [],
+    "Sagrada Família": [],
+    "Saldanha Marinho": [],
+    "Salto do Jacuí": [],
+    "Salvador da Missões": [],
+    "Salvador do Sul": [],
+    "Sananduva": [],
+    "Santa Bárbara do Sul": [],
+    "Santa Cecília do Sul": [],
     "Santa Maria": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "Santa Maria",
+            "telefone": "55 3222 7971",
             "info": "",
             "endereco": ""
         }
     ],
-    "Santa Maria do Herval": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santa Rosa": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Santa Maria do Herval": [],
+    "Santa Rosa": [],
     "Santiago": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Santiago",
+            "telefone": "(55 )3251-4494",
+            "info": "Próximo ao Corpo de Bombeiros, diagonal a Secretaria de Educação",
+            "endereco": "R. Neri Gomes Peixoto, 1435 - Centro, Santiago - RS, 97700-000"
         }
     ],
-    "Santo Angelo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Antônio da Patrulha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Antonio das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Antônio do Palma": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Antônio do Planalto": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Augusto": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Cristo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Santo Expedito do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Antônio da Patrulha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Domingos do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Santo Angelo": [],
+    "Santo Antônio da Patrulha": [],
+    "Santo Antonio das Missões": [],
+    "Santo Antônio do Palma": [],
+    "Santo Antônio do Planalto": [],
+    "Santo Augusto": [],
+    "Santo Cristo": [],
+    "Santo Expedito do Sul": [],
+    "São Antônio da Patrulha": [],
+    "São Domingos do Sul": [],
     "São Francisco de Assis": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "São Francisco de Assis",
+            "telefone": "55 99672-9177",
             "info": "",
             "endereco": ""
         }
     ],
-    "São Jerônimo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São João da Urtiga": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São João do Polêsine": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São José das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São José do Herval": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São José do Hortêncio": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São José do Inhacorá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São José do Ouro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São José do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "São Jerônimo": [],
+    "São João da Urtiga": [],
+    "São João do Polêsine": [],
+    "São José das Missões": [],
+    "São José do Herval": [],
+    "São José do Hortêncio": [],
+    "São José do Inhacorá": [],
+    "São José do Ouro": [],
+    "São José do Sul": [],
     "São Leopoldo": [
         {
             "nome": "Região 1",
@@ -2119,524 +528,116 @@
             "endereco": "Governador Roberto Silveira, 425 - Santos Dumont"
         }
     ],
-    "São Luis Gonzaga": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Martinho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Martinho da Serra": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Miguel das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Nicolau": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Paulo das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Pedro da Serra": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Pedro das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Pedro do Butiá": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "São Luis Gonzaga": [],
+    "São Martinho": [],
+    "São Martinho da Serra": [],
+    "São Miguel das Missões": [],
+    "São Nicolau": [],
+    "São Paulo das Missões": [],
+    "São Pedro da Serra": [],
+    "São Pedro das Missões": [],
+    "São Pedro do Butiá": [],
     "São Pedro do Sul": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "São Pedro do Sul",
+            "telefone": "55 3276-6147",
             "info": "",
             "endereco": ""
         }
     ],
-    "São Sebastião do Caí": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Sepé": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Valentim": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Valério": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "São Vendelino": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "São Sebastião do Caí": [],
+    "São Sepé": [],
+    "São Valentim": [],
+    "São Valério": [],
+    "São Vendelino": [],
     "São Vicente do Sul": [
         {
-            "nome": "",
-            "telefone": "",
+            "nome": "São Vicente do Sul",
+            "telefone": "55 99909-3085",
             "info": "",
             "endereco": ""
         }
     ],
     "Sapiranga": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Sapiranga",
+            "telefone": "51997075087",
+            "info": "Centro",
+            "endereco": "Rua Getúlio Vargas, 305"
         }
     ],
     "Sapucaia do Sul": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Sapucaia",
+            "telefone": "51992528039",
+            "info": "Santa Catarina",
+            "endereco": "Av. Leônidas de Souza, 979"
         }
     ],
-    "Sarandi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Seberi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sede Nova": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Selbach": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Senador Salgado Filho": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sentinela do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sertão": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sertão Santana": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Sete de Setembro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Severiano de Almeida": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Silveira Martins": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Soledade": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tapejara": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tapera": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tapes": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Taquara": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Taquaruçu do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tenente Portela": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tio Hugo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tiradentes do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Toropi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Três Arroios": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Três Coroas": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Três de Maio": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Três Palmeiras": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Três Passos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Trindade do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Triunfo": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tucunduva": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tupanci do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tupanciretã": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tupandi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Tuparendi": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Ubiretama": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Unistalda": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vale Real": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vanini": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Viadutos": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
+    "Sarandi": [],
+    "Seberi": [],
+    "Sede Nova": [],
+    "Selbach": [],
+    "Senador Salgado Filho": [],
+    "Sentinela do Sul": [],
+    "Sertão": [],
+    "Sertão Santana": [],
+    "Sete de Setembro": [],
+    "Severiano de Almeida": [],
+    "Silveira Martins": [],
+    "Soledade": [],
+    "Tapejara": [],
+    "Tapera": [],
+    "Tapes": [],
+    "Taquara": [],
+    "Taquaruçu do Sul": [],
+    "Tenente Portela": [],
+    "Tio Hugo": [],
+    "Tiradentes do Sul": [],
+    "Toropi": [],
+    "Três Arroios": [],
+    "Três Coroas": [],
+    "Três de Maio": [],
+    "Três Palmeiras": [],
+    "Três Passos": [],
+    "Trindade do Sul": [],
+    "Triunfo": [],
+    "Tucunduva": [],
+    "Tupanci do Sul": [],
+    "Tupanciretã": [],
+    "Tupandi": [],
+    "Tuparendi": [],
+    "Ubiretama": [],
+    "Unistalda": [],
+    "Vale Real": [],
+    "Vanini": [],
+    "Viadutos": [],
     "Viamão": [
         {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
+            "nome": "Viamão",
+            "telefone": "51999158030",
+            "info": "Vianópolis",
+            "endereco": "Av. Senador Salgado Filho, 4127"
+        },
+        {
+            "nome": "Viamão",
+            "telefone": "51999135734",
+            "info": "Jardim Krahe",
+            "endereco": "Av. Senador Salgado Filho, 9214"
+        },
+        {
+            "nome": "Viamão",
+            "telefone": "51985852669",
+            "info": "pac 82",
+            "endereco": "RS 040, 18919 km27"
         }
     ],
-    "Vicente Dutra": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Victor Graeff": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vila Lângaro": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vila Maria": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vila Nova do Sul": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vista Alegre": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vista Gaúcha": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ],
-    "Vitória das Missões": [
-        {
-            "nome": "",
-            "telefone": "",
-            "info": "",
-            "endereco": ""
-        }
-    ]
+    "Vicente Dutra": [],
+    "Victor Graeff": [],
+    "Vila Lângaro": [],
+    "Vila Maria": [],
+    "Vila Nova do Sul": [],
+    "Vista Alegre": [],
+    "Vista Gaúcha": [],
+    "Vitória das Missões": []
 }
